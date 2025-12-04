@@ -42,13 +42,10 @@
 ✔ Clean design + filters + charts   
 
 ### 🌐 Movie Data Analysis & Visualization using Python
-✔ Data cleaning
-✔ Exploratory Data Analysis (EDA)
-
-✔ Data visualization
-
-✔ Insights extracted from real metrics (IMDb, Rotten Tomatoes, Revenues)
-
+✔ Data cleaning  
+✔ Exploratory Data Analysis (EDA)  
+✔ Data visualization  
+✔ Insights extracted from real metrics (IMDb, Rotten Tomatoes, Revenues)  
 ✔ Statistical correlation
 
 
