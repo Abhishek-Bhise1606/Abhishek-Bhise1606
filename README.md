@@ -49,7 +49,7 @@
 ✔ Statistical correlation
 ---
 
-### SQL EDA Project — Classic Models Databas
+### SQL EDA Project — Classic Models Database
 ✔ SQL Queries
 ✔ EDA Notes
 ✔ Business Insights
