@@ -67,10 +67,12 @@
 ---
 
 ## 🔗 Connect With Me
+## 📈 GitHub Stats
 <p align="center">
-  <a href="https://www.linkedin.com/in/abhishek-bhise-91b169368?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhishek-Bhise1606&show_icons=true&theme=radical" width="48%">
+  <img src="https://streak-stats.demolab.com/?user=Abhishek-Bhise1606&theme=radical" width="48%">
+</p>
+
 
   <a href="https://github.com/Abhishek-Bhise1606" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github" />
