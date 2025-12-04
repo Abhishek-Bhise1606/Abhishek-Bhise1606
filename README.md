@@ -49,7 +49,7 @@
 ✔ Statistical correlation
 ---
 
-### SQL EDA Project — Classic Models Database
+### SQL EDA Project — Classic Models Databas
 ✔ SQL Queries
 ✔ EDA Notes
 ✔ Business Insights
@@ -59,20 +59,17 @@
 
 ## 📈 GitHub Stats
 <p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-Bhise1606&theme=radical" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhishek-Bhise1606&show_icons=true&theme=radical" width="48%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-Bhise1606&theme=radical" width="48%">
 </p>
 
 ---
 
 ## 🔗 Connect With Me
-## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhishek-Bhise1606&show_icons=true&theme=radical" width="48%">
-  <img src="https://streak-stats.demolab.com/?user=Abhishek-Bhise1606&theme=radical" width="48%">
-</p>
-
+  <a href="https://www.linkedin.com/in/abhishek-bhise-91b169368?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
 
   <a href="https://github.com/Abhishek-Bhise1606" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github" />
@@ -84,3 +81,4 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.gif" width="100%">
 </p>
+why second image not showing
