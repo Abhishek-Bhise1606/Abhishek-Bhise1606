@@ -51,7 +51,7 @@
 
 
 ### SQL EDA Project — Classic Models Databas
-✔ SQL Queries 
+✔ SQL Queries    
 ✔ EDA Notes  
 ✔ Business Insights  
 ✔ Stored Procedures  
