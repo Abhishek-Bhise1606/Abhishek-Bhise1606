@@ -47,7 +47,7 @@
 ✔ Data visualization
 ✔ Insights extracted from real metrics (IMDb, Rotten Tomatoes, Revenues)
 ✔ Statistical correlation
----
+
 
 ### SQL EDA Project — Classic Models Databas
 ✔ SQL Queries
@@ -55,7 +55,7 @@
 ✔ Business Insights
 ✔ Stored Procedures
 
----
+
 
 <p align="center">
   <!-- Working GitHub Stats -->
