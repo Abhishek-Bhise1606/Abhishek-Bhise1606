@@ -43,7 +43,6 @@
 
 ### 🌐 Movie Data Analysis & Visualization using Python
 ✔ Data cleaning
-
 ✔ Exploratory Data Analysis (EDA)
 
 ✔ Data visualization
