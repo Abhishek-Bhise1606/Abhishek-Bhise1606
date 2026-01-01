@@ -57,26 +57,26 @@
 ✔ Stored Procedures  
 
 📊 Dashboard Projects
-🏥 Hospital Visits Performance Dashboard | Power BI
+🏥 Hospital Visits Performance Dashboard | Power BI             
 
-✔ KPIs for revenue, patients, and visits
-✔ Department-wise and diagnosis-based analysis
-✔ Monthly and yearly trend analysis
-✔ Gender and demographic insights
+✔ KPIs for revenue, patients, and visits                  
+✔ Department-wise and diagnosis-based analysis              
+✔ Monthly and yearly trend analysis             
+✔ Gender and demographic insights                    
 
-🎵 Spotify Music Analytics Dashboard | Power BI
+🎵 Spotify Music Analytics Dashboard | Power BI            
 
-✔ Artist, song, and album-level analysis
-✔ Popularity trends by month, year, and quarter
-✔ Explicit vs non-explicit song insights
-✔ Interactive filters with Spotify-inspired UI
+✔ Artist, song, and album-level analysis                 
+✔ Popularity trends by month, year, and quarter             
+✔ Explicit vs non-explicit song insights               
+✔ Interactive filters with Spotify-inspired UI           
 
-📊 Sales & Order Performance Dashboard | Tableau
+📊 Sales & Order Performance Dashboard | Tableau       
 
-✔ Sales, orders, returns, and customer KPIs
-✔ Profitability metrics (GPM, OPM, ROA, ROE)
-✔ Segment-wise performance analysis
-✔ Cost breakdown and trend insights
+✔ Sales, orders, returns, and customer KPIs            
+✔ Profitability metrics (GPM, OPM, ROA, ROE)               
+✔ Segment-wise performance analysis                     
+✔ Cost breakdown and trend insights                
 
 ## 📈 GitHub Stats
 <p align="center">
