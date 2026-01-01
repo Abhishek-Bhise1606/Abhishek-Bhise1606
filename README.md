@@ -81,10 +81,10 @@
 ## 📈 GitHub Stats
 <p align="center">
   <!-- Working GitHub Stats -->
-  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=Dhanashri0616&show_icons=true&theme=radical&cache_seconds=7200" width="48%">
+  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=Abhishek-Bhise1606&show_icons=true&theme=radical&cache_seconds=7200" width="48%">
   
   <!-- Working Streak Stats -->
-  <img src="https://streak-stats.demolab.com/?user=Dhanashri0616&theme=radical" width="48%">
+  <img src="https://streak-stats.demolab.com/?user=Abhishek-Bhise1606&theme=radical" width="48%">
 </p>
 ---
 
