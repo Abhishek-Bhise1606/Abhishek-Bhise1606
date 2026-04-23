@@ -78,7 +78,7 @@
 ✔ Segment-wise performance analysis                     
 ✔ Cost breakdown and trend insights 
 
-###🌐 🍽️ Restaurant Review Analysis (NLP Project)
+### 🌐 🍽️ Restaurant Review Analysis (NLP Project)
 
 ✔ Text preprocessing  
 ✔ Sentiment analysis (Positive / Negative)  
