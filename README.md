@@ -76,7 +76,16 @@
 ✔ Sales, orders, returns, and customer KPIs            
 ✔ Profitability metrics (GPM, OPM, ROA, ROE)               
 ✔ Segment-wise performance analysis                     
-✔ Cost breakdown and trend insights                
+✔ Cost breakdown and trend insights 
+
+###🌐 🍽️ Restaurant Review Analysis (NLP Project)
+
+✔ Text preprocessing  
+✔ Sentiment analysis (Positive / Negative)  
+✔ CountVectorizer / Bag of Words  
+✔ Machine Learning model training  
+✔ Accuracy evaluation  
+✔ Customer feedback insights
 
 ## 📈 GitHub Stats
 <p align="center">
